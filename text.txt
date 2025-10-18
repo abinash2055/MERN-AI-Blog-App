@@ -1,2 +1,17 @@
 
 time :: 3:21:32
+
+client :: npm run dev
+server :: npm run server
+
+
+
+Mongodb
+    username :: personalsignature
+    password :: COTQXndufwC56PCI
+    used Google Cloud
+
+    URL :: mongodb+srv://personalsignature:COTQXndufwC56PCI@cluster0.csl5mm2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+    mongodb+srv://personalsignature:COTQXndufwC56PCI@cluster0.csl5mm2.mongodb.net/
