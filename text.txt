@@ -1,12 +1,13 @@
 
-time :: 3:21:32
+1. Time :: 4:28:06
 
-client :: npm run dev
-server :: npm run server
+2. client :: npm run dev
+3. server :: npm run server
 
+4. ImageKit
+    username :: personalsignature
 
-
-Mongodb
+5. Mongodb
     username :: personalsignature
     password :: COTQXndufwC56PCI
     used Google Cloud
